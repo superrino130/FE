@@ -2,13 +2,17 @@
 + 構造化プログラミング
 + 分岐処理
 
-# 関連する科目A問題
-https://www.fe-siken.com/kakomon/13_aki/q52.html
+# いろいろやってみる
+if や else の順番を変えるとどうなる？
 
-https://www.fe-siken.com/kakomon/14_haru/q54.html
+case when は出題されない？
 
-https://www.fe-siken.com/kakomon/15_haru/q53.html
 
-https://www.fe-siken.com/bunya.php?m=2&s=3&no=17
+# 関連する科目A問題 - プログラム言語
+https://www.fe-siken.com/kakomon/30_aki/q8.html
 
-https://www.fe-siken.com/kakomon/18_haru/q36.html
+
+https://www.fe-siken.com/kakomon/20_haru/q48.html
+
+https://www.fe-siken.com/kakomon/20_aki/q44.html
+

@@ -1,3 +1,5 @@
+REM https://www.fe-siken.com/kakomon/sample/b1.html
+
 Public Sub sample01()
 '    Dim x As Integer
 '    Dim y As Integer
