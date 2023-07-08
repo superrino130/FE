@@ -23,7 +23,7 @@
 |[sample15](https://www.fe-siken.com/kakomon/sample/b15.html)|★★★|ゲーム理論|||[Ruby](/Ruby/sample15.rb)
 |[sample16](https://www.fe-siken.com/kakomon/sample/b16.html)|★★★|bit演算|||[Ruby](/Ruby/sample16.rb)
 |sample17-20||情報セキュリティ問題|過去問道場にて学習||[過去問道場](https://www.fe-siken.com/fekakomon.php)
-|[samplea01](https://www.fe-siken.com/kakomon/sample20220425/b1.html)|★|if による条件分岐|||[Ruby](./Ruby/samplea01.rb)
+|[samplea01](https://www.fe-siken.com/kakomon/sample20220425/b1.html)|★|if による条件分岐||[Hint](/Hint/sample01.md)|[Ruby](./Ruby/samplea01.rb)
 |[samplea02](https://www.fe-siken.com/kakomon/sample20220425/b2.html)|★★|while による反復処理|sample01の応用||[Ruby](./Ruby/samplea02.rb)
 |[samplea03](https://www.fe-siken.com/kakomon/sample20220425/b3.html)|★★★|連結リストの削除|リスト||[Ruby](./Ruby/samplea03.rb)
 |[samplea04](https://www.fe-siken.com/kakomon/sample20220425/b4.html)|★★|配列の処理|配列||[Ruby](./Ruby/samplea05.rb)
