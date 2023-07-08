@@ -5,9 +5,8 @@
 # いろいろやってみる
 if や else の順番を変えるとどうなる？
 
-if をネストしてみる？
+case when は出題されない？
 
-case when や switch case は出題されない？
 
 # 関連する科目A問題 - プログラム言語
 https://www.fe-siken.com/kakomon/30_aki/q8.html

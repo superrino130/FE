@@ -10,7 +10,7 @@
 |[sample02](https://www.fe-siken.com/kakomon/sample/b2.html)|★|if による条件分岐||[Hint](/Hint/sample01.md)|[Ruby](/Ruby/sample02.rb),[Python](/Python/sample02.py),[VBA](/VBA/sample02.vb),[Java](/Java/Sample02.java)
 |[sample03](https://www.fe-siken.com/kakomon/sample/b3.html)|★★|配列の処理|配列||[Ruby](/Ruby/sample03.rb)
 |[sample04](https://www.fe-siken.com/kakomon/sample/b4.html)|★★|while による反復処理|||[Ruby](/Ruby/sample04.rb)
-|[sample05](https://www.fe-siken.com/kakomon/sample/b5.html)|★|演算の優先順位|||[Ruby](/Ruby/sample05.rb)
+|[sample05](https://www.fe-siken.com/kakomon/sample/b5.html)|★|演算の優先順位||[Hint](/Hint/sample01.md)|[Ruby](/Ruby/sample05.rb)
 |[sample06](https://www.fe-siken.com/kakomon/sample/b6.html)|★★|bit演算|||[Ruby](/Ruby/sample06.rb)
 |[sample07](https://www.fe-siken.com/kakomon/sample/b7.html)|★★|再帰関数|||[Ruby](/Ruby/sample07.rb)
 |[sample08](https://www.fe-siken.com/kakomon/sample/b8.html)|★★★|優先度付きキュー|||[Ruby](/Ruby/sample08.rb)
