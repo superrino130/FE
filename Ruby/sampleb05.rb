@@ -1,4 +1,4 @@
-# 5月追加分
+# 7月追加分
 
 def calcCosineSimilarity(vector1, vector2)
   numerator = 0

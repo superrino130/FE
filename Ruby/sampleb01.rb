@@ -1,6 +1,5 @@
-# 5月追加分
-def
-   findPrimeNumbers(maxNum)
+# 7月追加分
+def findPrimeNumbers(maxNum)
   pnList = []
   (2..maxNum).each do |i|
     divideFlag = true
