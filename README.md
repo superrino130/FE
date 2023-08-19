@@ -9,7 +9,7 @@
 |[sample01](https://www.fe-siken.com/kakomon/sample/b1.html)|★|変数の交換||K|[Hint](/Hint/sample01.md)|[Ruby](/Ruby/sample01.rb),[Python](/Python/sample01.py),[VBA](/VBA/sample01.vb),[Java](/Java/Sample02.java)
 |[sample02](https://www.fe-siken.com/kakomon/sample/b2.html)|★|if による条件分岐|分岐処理|K|[Hint](/Hint/sample02.md)|[Ruby](/Ruby/sample02.rb),[Python](/Python/sample02.py),[VBA](/VBA/sample02.vb),[Java](/Java/Sample02.java)
 |[sample03](https://www.fe-siken.com/kakomon/sample/b3.html)|★★|配列の処理|配列|D||[Ruby](/Ruby/sample03.rb)
-|[sample04](https://www.fe-siken.com/kakomon/sample/b4.html)|★★|while による反復処理|繰返し処理|K||[Ruby](/Ruby/sample04.rb)
+|[sample04](https://www.fe-siken.com/kakomon/sample/b4.html)|★★|while による反復処理|繰返し処理|K||[Ruby](/Ruby/sample04.rb),[VBA](/VBA/sample04.vb)
 |[sample05](https://www.fe-siken.com/kakomon/sample/b5.html)|★|数式の表現|演算の優先順位|S|[Hint](/Hint/sample05.md)|[Ruby](/Ruby/sample05.rb)
 |[sample06](https://www.fe-siken.com/kakomon/sample/b6.html)|★★|bit演算||S||[Ruby](/Ruby/sample06.rb)
 |[sample07](https://www.fe-siken.com/kakomon/sample/b7.html)|★★|再帰関数||K+||[Ruby](/Ruby/sample07.rb)
