@@ -1,4 +1,4 @@
-# 7月追加分
+# https://www.fe-siken.com/kakomon/05_haru/b4.html
 
 @hashArray = []
 

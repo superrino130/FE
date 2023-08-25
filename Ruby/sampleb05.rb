@@ -1,4 +1,4 @@
-# 7月追加分
+# https://www.fe-siken.com/kakomon/05_haru/b5.html
 
 def calcCosineSimilarity(vector1, vector2)
   numerator = 0

@@ -1,4 +1,5 @@
-# 7月追加分
+# https://www.fe-siken.com/kakomon/05_haru/b1.html
+
 def findPrimeNumbers(maxNum)
   pnList = []
   (2..maxNum).each do |i|

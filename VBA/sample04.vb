@@ -1,4 +1,4 @@
-# https://www.fe-siken.com/kakomon/sample/b4.html
+REM https://www.fe-siken.com/kakomon/sample/b4.html
 
 Function gcd(num1, num2) As Integer
   x = num1

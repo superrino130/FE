@@ -28,11 +28,11 @@
 |[samplea03](https://www.fe-siken.com/kakomon/sample20220425/b3.html)|★★★|連結リストの削除|リスト|D||[Ruby](./Ruby/samplea03.rb)
 |[samplea04](https://www.fe-siken.com/kakomon/sample20220425/b4.html)|★★|配列の処理|配列|D||[Ruby](./Ruby/samplea05.rb)
 |[samplea05](https://www.fe-siken.com/kakomon/sample20220425/b5.html)|★★|配列の処理|配列|D||[Ruby](./Ruby/samplea06.rb)
-|sampleb01|★★★|素数の算出|素数|K+||[Ruby](./Ruby/sampleb01.rb)
-|sampleb02|★|関数の再利用|関数|K||[Ruby](./Ruby/sampleb02.rb)
-|sampleb03|★★★|クイックソート|ソート|K+||[Ruby](./Ruby/sampleb03.rb)
-|sampleb04|★★|配列の処理|配列|D||[Ruby](./Ruby/sampleb04.rb)
-|sampleb05|★★|数式の表現|繰返し処理|K||[Ruby](./Ruby/sampleb05.rb)
+|[sampleb01](https://www.fe-siken.com/kakomon/05_haru/b1.html)|★★★|素数の算出|素数|K+||[Ruby](./Ruby/sampleb01.rb)
+|[sampleb02](https://www.fe-siken.com/kakomon/05_haru/b2.html)|★|関数の再利用|関数|K||[Ruby](./Ruby/sampleb02.rb)
+|[sampleb03](https://www.fe-siken.com/kakomon/05_haru/b3.html)|★★★|クイックソート|ソート|K+||[Ruby](./Ruby/sampleb03.rb)
+|[sampleb04](https://www.fe-siken.com/kakomon/05_haru/b4.html)|★★|配列の処理|配列|D||[Ruby](./Ruby/sampleb04.rb)
+|[sampleb05](https://www.fe-siken.com/kakomon/05_haru/b5.html)|★★|数式の表現|繰返し処理|K||[Ruby](./Ruby/sampleb05.rb)
 
 |難易度詳細||||
 |:--:|:--|--:|--:|

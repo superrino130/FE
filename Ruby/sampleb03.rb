@@ -1,4 +1,4 @@
-# 7月追加分
+# https://www.fe-siken.com/kakomon/05_haru/b3.html
 
 @data = [2, 1, 3, 5, 4]
 
