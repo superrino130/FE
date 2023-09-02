@@ -12,7 +12,7 @@
 |[sample04](https://www.fe-siken.com/kakomon/sample/b4.html)|★★|while による反復処理|繰返し処理|K||[Ruby](/Ruby/sample04.rb),[VBA](/VBA/sample04.vb)
 |[sample05](https://www.fe-siken.com/kakomon/sample/b5.html)|★|数式の表現|演算の優先順位|S|[Hint](/Hint/sample05.md)|[Ruby](/Ruby/sample05.rb)
 |[sample06](https://www.fe-siken.com/kakomon/sample/b6.html)|★★|bit演算||S||[Ruby](/Ruby/sample06.rb)
-|[sample07](https://www.fe-siken.com/kakomon/sample/b7.html)|★★|再帰関数||K+||[Ruby](/Ruby/sample07.rb)
+|[sample07](https://www.fe-siken.com/kakomon/sample/b7.html)|★★|再帰関数||K+||[Ruby](/Ruby/sample07.rb),[VBA](/VBA/sample7.vb)
 |[sample08](https://www.fe-siken.com/kakomon/sample/b8.html)|★★★|優先度付きキュー||D+||[Ruby](/Ruby/sample08.rb)
 |[sample09](https://www.fe-siken.com/kakomon/sample/b9.html)|★★★|再帰関数の応用|二分木|D+||[Ruby](/Ruby/sample09.rb)
 |[sample10](https://www.fe-siken.com/kakomon/sample/b10.html)|★★★|連結リストの追加|リスト|D||[Ruby](/Ruby/sample10.rb)
