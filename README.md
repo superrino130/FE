@@ -18,7 +18,7 @@
 |[sample10](https://www.fe-siken.com/kakomon/sample/b10.html)|★★★|連結リストの追加|リスト|D||[Ruby](/Ruby/sample10.rb)
 |[sample11](https://www.fe-siken.com/kakomon/sample/b11.html)|★★|配列の整列|配列|D||[Ruby](/Ruby/sample11.rb)
 |[sample12](https://www.fe-siken.com/kakomon/sample/b12.html)|★★|配列の比較|配列|D||[Ruby](/Ruby/sample12.rb)
-|[sample13](https://www.fe-siken.com/kakomon/sample/b13.html)|★★|while による反復処理|二分探索|K||[Ruby](/Ruby/sample13.rb)
+|[sample13](https://www.fe-siken.com/kakomon/sample/b13.html)|★★|while による反復処理|二分探索|K||[Ruby](/Ruby/sample13.rb),[VBA](/VBA/sample13.vb)
 |[sample14](https://www.fe-siken.com/kakomon/sample/b14.html)|★★|配列の処理|配列|D||[Ruby](/Ruby/sample14.rb)
 |[sample15](https://www.fe-siken.com/kakomon/sample/b15.html)|★★★|ゲーム理論||S||[Ruby](/Ruby/sample15.rb)
 |[sample16](https://www.fe-siken.com/kakomon/sample/b16.html)|★★★|bit演算||S||[Ruby](/Ruby/sample16.rb)
@@ -29,7 +29,7 @@
 |[samplea04](https://www.fe-siken.com/kakomon/sample20220425/b4.html)|★★|配列の処理|配列|D||[Ruby](./Ruby/samplea05.rb)
 |[samplea05](https://www.fe-siken.com/kakomon/sample20220425/b5.html)|★★|配列の処理|配列|D||[Ruby](./Ruby/samplea06.rb)
 |[sampleb01](https://www.fe-siken.com/kakomon/05_haru/b1.html)|★★★|素数の算出|素数|K+||[Ruby](./Ruby/sampleb01.rb)
-|[sampleb02](https://www.fe-siken.com/kakomon/05_haru/b2.html)|★|関数の再利用|関数|K||[Ruby](./Ruby/sampleb02.rb),[VBA](./Ruby/sampleb02.vb),[VBA](./Ruby/sampleb02e.vb)
+|[sampleb02](https://www.fe-siken.com/kakomon/05_haru/b2.html)|★|関数の再利用|関数|K||[Ruby](./Ruby/sampleb02.rb),[VBA](./VBA/sampleb02.vb),[VBA](./VBA/sampleb02e.vb)
 |[sampleb03](https://www.fe-siken.com/kakomon/05_haru/b3.html)|★★★|クイックソート|ソート|K+||[Ruby](./Ruby/sampleb03.rb)
 |[sampleb04](https://www.fe-siken.com/kakomon/05_haru/b4.html)|★★|配列の処理|配列|D||[Ruby](./Ruby/sampleb04.rb)
 |[sampleb05](https://www.fe-siken.com/kakomon/05_haru/b5.html)|★★|数式の表現|繰返し処理|K||[Ruby](./Ruby/sampleb05.rb)
@@ -47,3 +47,10 @@
 |S|その他|4|15%|
 |K+|構造化プログラミング応用|3|12%|
 |D+|データ構造応用|2|8%|
+
+|データ構造詳細|||
+|:--:|--:|--:|
+|配列|7|64%|
+|リスト|2|18%|
+|二分木|1|9%|
+|優先度付きキュー|1|9%|
