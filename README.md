@@ -27,7 +27,7 @@
 |[samplea02](https://www.fe-siken.com/kakomon/sample20220425/b2.html)|★★|while による反復処理|sample01の応用|K||[Ruby](./Ruby/samplea02.rb)
 |[samplea03](https://www.fe-siken.com/kakomon/sample20220425/b3.html)|★★★|連結リストの削除|リスト|D||[Ruby](./Ruby/samplea03.rb)
 |[samplea04](https://www.fe-siken.com/kakomon/sample20220425/b4.html)|★★|配列の処理|配列|D||[Ruby](./Ruby/samplea04.rb)
-|[samplea05](https://www.fe-siken.com/kakomon/sample20220425/b5.html)|★★|配列の処理|配列|D||[Ruby](./Ruby/samplea05.rb)
+|[samplea05](https://www.fe-siken.com/kakomon/sample20220425/b5.html)|★★|配列の処理|sample12の応用|D||[Ruby](./Ruby/samplea05.rb)
 |[sampleb01](https://www.fe-siken.com/kakomon/05_haru/b1.html)|★★★|素数の算出|素数|K+||[Ruby](./Ruby/sampleb01.rb)
 |[sampleb02](https://www.fe-siken.com/kakomon/05_haru/b2.html)|★|関数の再利用|関数|K||[Ruby](./Ruby/sampleb02.rb),[VBA](./VBA/sampleb02.vb),[VBA](./VBA/sampleb02e.vb)
 |[sampleb03](https://www.fe-siken.com/kakomon/05_haru/b3.html)|★★★|クイックソート|ソート|K+||[Ruby](./Ruby/sampleb03.rb)
@@ -54,3 +54,5 @@
 |リスト|2|18%|
 |二分木|1|9%|
 |優先度付きキュー|1|9%|
+
+[配列理解用エクセルブック](/VBA/VBA20230916.xlsm)
