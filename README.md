@@ -1,9 +1,9 @@
 # 基本情報技術者試験　科目Ｂ問題　解答例
 
-参照ページ：[基本情報技術者試験ドットコム - 基本情報技術者 サンプル問題](https://www.fe-siken.com/kakomon/sample/)
-
-問題の難易度
-
+## 参照ページ
++ [基本情報技術者試験ドットコム - 基本情報技術者 サンプル問題](https://www.fe-siken.com/kakomon/sample/)
++ [情報セキュリティ問題はここも参考になる](https://www.sg-siken.com/kakomon/sample/)
+## 問題の難易度
 |問題|難易度|題意|キーワード|分類|ヒント|備考|
 |:--|:--:|:--|:--|:--|:--|:--|
 |[sample01](https://www.fe-siken.com/kakomon/sample/b1.html)|★|変数の交換||K|[Hint](/Hint/sample01.md)|[Ruby](/Ruby/sample01.rb),[Python](/Python/sample01.py),[VBA](/VBA/sample01.vb),[Java](/Java/Sample02.java)
@@ -33,7 +33,7 @@
 |[sampleb03](https://www.fe-siken.com/kakomon/05_haru/b3.html)|★★★|クイックソート|ソート|K+||[Ruby](./Ruby/sampleb03.rb)
 |[sampleb04](https://www.fe-siken.com/kakomon/05_haru/b4.html)|★★|配列の処理|配列|D||[Ruby](./Ruby/sampleb04.rb)
 |[sampleb05](https://www.fe-siken.com/kakomon/05_haru/b5.html)|★★|数式の表現|繰返し処理|K||[Ruby](./Ruby/sampleb05.rb)
-
+## 出題分析
 |難易度詳細||||
 |:--:|:--|--:|--:|
 |★|易|5|19%|
