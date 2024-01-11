@@ -55,4 +55,11 @@
 |二分木|1|9%|
 |優先度付きキュー|1|9%|
 
-[配列理解用エクセルブック](/VBA/VBA20230916.xlsm)
++ [配列理解用エクセルブック](/VBA/VBA20230916.xlsm)
++ [数独 Ruby版](/Ruby/sudoku.rb)
++ [数独 ExcelVBA版01](/VBA/sudoku01.xlsm)
++ [数独 ExcelVBA版02](/VBA/sudoku02.xlsm)
++ [数独 ExcelVBA版03](/VBA/sudoku03.xlsm)
++ [数独 ExcelVBA版04](/VBA/sudoku04.xlsm)
++ [数独 ExcelVBA版05](/VBA/sudoku05.xlsm)
++ [数独 ExcelVBA版06](/VBA/sudoku06.xlsm)
