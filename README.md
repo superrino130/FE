@@ -63,3 +63,6 @@
 + [数独 ExcelVBA版04](/VBA/sudoku04.xlsm)
 + [数独 ExcelVBA版05](/VBA/sudoku05.xlsm)
 + [数独 ExcelVBA版06](/VBA/sudoku06.xlsm)
++ [数独 ExcelVBA版07](/VBA/sudoku07.xlsm)
++ [数独 ExcelVBA版08](/VBA/sudoku08.xlsm)
++ [数独 ExcelVBA版09](/VBA/sudoku09.xlsm)
