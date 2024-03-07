@@ -66,3 +66,4 @@
 + [数独 ExcelVBA版07](/VBA/sudoku07.xlsm)
 + [数独 ExcelVBA版08](/VBA/sudoku08.xlsm)
 + [数独 ExcelVBA版09](/VBA/sudoku09.xlsm)
++ [迷路 ExcelVBA版01](/VBA/maze01.xlsm)
